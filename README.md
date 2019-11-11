@@ -1,0 +1,2 @@
+# myMokore
+my blog
